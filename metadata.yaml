@@ -1,0 +1,32 @@
+_repo: M.-P.-s-in-Session--From-Mr.-Punch-s-Parliamentary-Portrait-Gallery_29560
+_version: 0.1.0
+alternative_title: M.P.'s in Session
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Furniss, Harry
+    alias: Furniss, Henry
+    birthdate: 1854
+    deathdate: 1925
+    gutenberg_agent_id: '25492'
+    url: http://www.gutenberg.org/2009/agents/25492
+description: ''
+gutenberg_bookshelf: Humor
+gutenberg_issued: '2009-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29560'
+  lccn: '40000438'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain. Parliament -- Biography -- Portraits'
+- !lcsh 'Caricatures and cartoons -- Great Britain'
+- !lcc 'NC'
+- !lcsh 'Great Britain -- Politics and government -- 1837-1901'
+title: 'M. P.''s in Session: From Mr. Punch''s Parliamentary Portrait Gallery'
+url: http://www.gutenberg.org/ebooks/29560
