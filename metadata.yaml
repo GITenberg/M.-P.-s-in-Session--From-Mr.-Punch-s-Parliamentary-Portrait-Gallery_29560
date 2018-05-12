@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '25492'
     url: http://www.gutenberg.org/2009/agents/25492
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29560#M.-P.-s-in-Session--From-Mr.-Punch-s-Parliamentary-Portrait-Gallery
 gutenberg_bookshelf: Humor
 gutenberg_issued: '2009-08-01'
 gutenberg_type: Text
